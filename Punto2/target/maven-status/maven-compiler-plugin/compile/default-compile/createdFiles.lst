@@ -1,0 +1,7 @@
+strategy\Main.class
+strategy\User.class
+strategy\FreeTime.class
+strategy\Feeling.class
+strategy\Strategy.class
+strategy\GlobalPopularity.class
+strategy\HistoryStrategy.class
